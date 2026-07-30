@@ -1,6 +1,10 @@
 # devops-capstone-project
 
+
+![Build Status](https://github.com/MakisVarv/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
 
 This repository contains my DevOps Capstone Project for the IBM DevOps and Software Engineering Professional Certificate. The project implements and delivers an accounts microservice using Agile planning, TDD, CI/CD, containerization, Kubernetes/OpenShift, and Tekton pipelines.
